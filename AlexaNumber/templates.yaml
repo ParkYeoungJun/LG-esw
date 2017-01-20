@@ -1,0 +1,13 @@
+welcome: Welcome to Number game. I'm going to set one number you should say one number and I will say whether you say right number 
+
+ok: OK, then say any number zero to one hundred  
+
+wrong: You must say zero to one hundred number
+
+bigger: Bigger than you
+
+lower: lower than you
+
+win: congraturation you win
+
+giveup: Um, Answer is {{number}}
